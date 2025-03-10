@@ -26,21 +26,21 @@ sidebar:
     goodreads: # Number-Username, e.g. 123456-alandoe
 
 
-    languages:
-      - idiom: French
-        level: Native
+    #languages:
+      #- idiom: French
+       # level: Native
 
-      - idiom: English
-        level: Professional
+#      - idiom: English
+ #       level: Professional
 
-      - idiom: German
-        level: Professional
+  #    - idiom: German
+   #     level: Professional
         
-      - idiom: Spanish
-        level: Beginner/Intermediate     
+    #  - idiom: Spanish
+     #   level: Beginner/Intermediate     
         
-      - idiom: Russian
-        level: Beginner/Intermediate
+      #- idiom: Russian
+       # level: Beginner/Intermediate
 
 
   #  interests:
@@ -214,6 +214,11 @@ publications:
     intro: |
 
     papers:
+      - title: "Multilingual Lifeworlds and Textual Monolingualism: Pseudotranslation in Katerina Poladjan, Olga Grjasnowa, and Nino Haratischwili"
+        link: "https://doi.org/10.14324/111.9781800083189"
+        # authors: 
+        conference: Studies in 20th & 21st Century Literature, 2024 (Article)
+      
       - title: "Cultural translation as a poetics of movement"
         link: "https://doi.org/10.14324/111.9781800083189"
         authors: in Elizabeth Kovach & Jens Kugele (eds.) 
@@ -264,32 +269,31 @@ publications:
         authors: Manuel Meune, Marie-Christine Boucher & Christian Gravel
         conference: Revue transatlantique d'études suisses, 1/2011 (Translation)
 
+# skills:
+  #  title: Skills &amp; Proficiency
 
-skills:
-    title: Skills &amp; Proficiency
+  #  toolset:
+   #   - name: Text Editing
+   #     level: 95%
 
-    toolset:
-      - name: Text Editing
-        level: 95%
+    #  - name: Bibliographic Reference Software
+    #    level: 95%
 
-      - name: Bibliographic Reference Software
-        level: 95%
+    #  - name: HTML5 & CSS
+    #    level: 90%
 
-      - name: HTML5 & CSS
-        level: 90%
+    #  - name: CMS (Wordpress, Plone)
+    #    level: 85%
 
-      - name: CMS (Wordpress, Plone)
-        level: 85%
+    #  - name: Plain Text Workflow
+    #    level: 80%
 
-      - name: Plain Text Workflow
-        level: 80%
+    #  - name: GitHub Workflow
+    #    level: 50%
 
-      - name: GitHub Workflow
-        level: 50%
-
-      - name: JavaScript & jQuery
-        level: 40%
+    #  - name: JavaScript & jQuery
+    #    level: 40%
 
 footer: >
-    Created in 2020 by Marie-Christine Boucher.
+    # Created in 2020 by Marie-Christine Boucher.
     Powered by Jekyll (theme by <a href="https://webjeda.com/" target="_blank">Sharath Kumar</a>, design by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>).
