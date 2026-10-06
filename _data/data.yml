@@ -139,7 +139,7 @@ experiences:
 
 projects:
     title: Conferences, Workshops & Summer Schools
-    intro: >
+    intro: ""
 
     assignments:
       - title: "[TEACHING] </br></br>Al for Research, 12 may 2025"
@@ -151,7 +151,7 @@ projects:
       - title: "Data Literacy für (literarische) Texte. Konzepte und Anwendung (with Berenike Herrmann), Spring Semester 2024"
         #link: "#hook"
         tagline: "Seminar, Digital Humanities Lab, Universität Basel."
-     - title: "Effi Briest, digital entschlüsselt, Summer Semester 2024"
+      - title: "Effi Briest, digital entschlüsselt, Summer Semester 2024"
         #link: "#hook"
         tagline: "Seminar, Germanistik, Universität Bielefeld."
       - title: "Der Bildungsroman. Neue Perspektiven auf eine literaturgeschichtliche Innovation, Winter Semester 2023/2024"
