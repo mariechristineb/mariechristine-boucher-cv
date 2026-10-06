@@ -92,15 +92,18 @@ education:
          # - Bullet point
           #- Bullet point
 experiences:
-    - role: <a href="https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=429920945" target="_blank">Research Associate, Germanistik</a>
-      time: 2023 - 
-      company: Universität Bielefeld
+    - role: <a href="https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=429920945" target="_blank">Postdoctoral Fellow in Newer German Literature and Digital Humanities</a>
+      time: 2025 - 
+      company: Faculty of Linguistics and Literary Studies, Universität Bielefeld
+    - role: <a href="https://ekvv.uni-bielefeld.de/pers_publ/publ/PersonDetail.jsp?personId=429920945" target="_blank">Research Associate in Newer German Literature and Digital Humanities</a>
+      time: 2023 - 2025
+      company: Faculty of Linguistics and Literary Studies, Universität Bielefeld
       details: |
           - AG Computational Literary Studies, Prof. Dr. Berenike Herrmann
           - Projects <a href="https://www.uni-bielefeld.de/themen/qm-studium-lehre/curriculum4.0/projekte/" target="_blank">Curriculum 4.0.nrw</a> & <a href="https://www.uni-bielefeld.de/lehre/innovative-lehrprojekte/bilinked/communities-of-practice/data-literacy/" target="_blank">BiLinked CoP Data Literacy</a>
     - role: <a href="https://www.uni-giessen.de/fbz/ggkgcsc/ueber-uns/team/" target="_blank">Web & IT Administration</a>
       time: 2019 - 2023
-      company: Graduate Centre for the Study of Culture, Giessen
+      company: International Graduate Centre for the Study of Culture, Justus-Liebig-Universität Giessen
       details: |
           - Website management & redesign
           - IT admin of the Research Team
