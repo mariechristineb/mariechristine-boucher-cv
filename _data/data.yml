@@ -138,7 +138,19 @@ projects:
     intro: >
 
     assignments:
-      - title: "[TEACHING] </br></br>Der Bildungsroman. Neue Perspektiven auf eine literaturgeschichtliche Innovation, Winter Semester 2023/2024"
+      - title: "[TEACHING] </br></br>Al for Research, 12 may 2025"
+        #link: "#hook"
+        tagline: "Workshop, European Humanities University, Vilnius."
+      - title: "Digital Tools for Research, 28 April 2025"
+        #link: "#hook"
+        tagline: "Workshop, European Humanities University, Vilnius."
+      - title: "Data Literacy für (literarische) Texte. Konzepte und Anwendung (with Berenike Herrmann), Spring Semester 2024"
+        #link: "#hook"
+        tagline: "Seminar, Digital Humanities Lab, Universität Basel."
+     - title: "Effi Briest, digital entschlüsselt, Summer Semester 2024"
+        #link: "#hook"
+        tagline: "Seminar, Germanistik, Universität Bielefeld."
+      - title: "Der Bildungsroman. Neue Perspektiven auf eine literaturgeschichtliche Innovation, Winter Semester 2023/2024"
         #link: "#hook"
         tagline: "Seminar, Germanistik, Universität Bielefeld."
       - title: "Literatur und/in Übersetzung, Winter Semester 2022/2023"
@@ -214,40 +226,50 @@ publications:
     intro: |
 
     papers:
+      - title: "Übersetzte Welten. Kulturelle Übersetzungsprozesse in deutschsprachiger Gegenwartsliteratur"
+        link: "https://doi.org/10.14361/9783839400791"
+        # authors: 
+        conference: transcript, 2025 (Monograph)
+    
+      - title: "Constructing A Multilingual Swiss National Literature: Jenny and Rossel’s Bilingual Literary History as a Challenge to the Monolingual Paradigm?"
+        authors: with Robin-M. Aust
+        link: "https://doi.org/10.1163/2667324x-20260102" 
+        conference: Journal of Literary Multilingualism, 2026 (Peer-Reviewed Article)
+        
       - title: "Multilingual Lifeworlds and Textual Monolingualism: Pseudotranslation in Katerina Poladjan, Olga Grjasnowa, and Nino Haratischwili"
         link: "https://doi.org/10.14324/111.9781800083189"
         # authors: 
-        conference: Studies in 20th & 21st Century Literature, 2024 (Article)
+        conference: Studies in 20th & 21st Century Literature, 2024 (Peer-Reviewed Article)
       
       - title: "Cultural translation as a poetics of movement"
         link: "https://doi.org/10.14324/111.9781800083189"
         authors: in Elizabeth Kovach & Jens Kugele (eds.) 
-        conference: Passages. Moving Beyond Liminality in the Study of Literature and Culture, 2022 (Article)
+        conference: Passages. Moving Beyond Liminality in the Study of Literature and Culture, 2022 (Peer-Reviewed Article)
         
       - title: "Migration, Contemporary Literature, Eastern Europe: In Search of a Term "
         link: "https://doi.org/10.22029/ko.2022.1280"
         authors: Aumüller, Matthias, and Weertje Willms (eds.) 
-        conference: KULT_online, 65/2022 (Review)
+        conference: KULT_online, 65/2022 (Book Review)
         
       - title: "Quantifying Literature: It’s Not All About the Digital"
         link: "https://doi.org/10.22029/ko.2020.1025"
         authors: Ted Underwood
-        conference: KULT_online, 58/2019 (Review)
+        conference: KULT_online, 58/2019 (Book Review)
     
       - title: "To Blur the Boundaries of Fiction and Translation"
         link: "https://doi.org/10.22029/ko.2019.255"
         authors: Judith Woodsworth
-        conference: KULT_online, 58/2019 (Review)
+        conference: KULT_online, 58/2019 (Book Review)
 
       - title: "Transkulturalität der Deutschschweizer Literatur. Entgrenzung durch Kulturtransfer und Migration"
         link: "http://www.aisthesis.de/epages/63645342.sf/de_DE/?ObjectPath=/Shops/63645342/Products/978-3-8498-1387-1"
         authors: Vesna Kondrič Horvat (ed.)
-        conference: Jahrbuch Komparatistik, 2018 (Review)
+        conference: Jahrbuch Komparatistik, 2018 (Book Review)
 
       - title: "Flüssige’ Postmoderne: Kneipen, Bars und Clubs als instabile Heimatkonstrukte"
         link: "https://doi.org/10.22029/ko.2018.195"
         authors: Vanessa Geuen
-        conference: KULT_online, 54/2018 (Review)
+        conference: KULT_online, 54/2018 (Book Review)
 
       - title:  "Du tischört à la panosse: une 'marche en crabe' transatlantique, ou l’art impur de traduire"
         link: "https://llm.umontreal.ca/public/FAS/llm/Documents/2-Recherche/Panosse_pour_poutzer.pdf"
