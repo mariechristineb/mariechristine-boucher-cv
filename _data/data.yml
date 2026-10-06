@@ -230,15 +230,37 @@ publications:
     intro: |
 
     papers:
+      - title: "War in the Socialist Block: Narrating the Shifting Sense of Place in Tijan Sila's Radio Sarajevo"
+        authors: in Robin-M. Aust, Giulia Grisot & Berenike Herrmann (eds.)
+        conference: Comparing Landscapes. Approaches to Space and Affect in Literary Fiction, Bielefeld University Press, in preparation (Book Chapter)
+
+      - title: "(Hochschul-)Lehre im Zeitalter der ‚Künstlichen Intelligenz‘"
+        authors: with Berenike Herrmann & Benjamin Paaßen; in Birgit Lütje-Klose, Johanna Springhorn, Meike Vogel & Reinhold Decker (eds.)
+        conference: Digitale Lehr-/Lernformate innovativ gestalten: Didaktische Zugänge für die Lehrpraxis, Bielefeld University Press, in preparation (Book Chapter)
+
+      - title: "Computational Literacy und Forschungsdatenmanagement"
+        authors: with Berenike Herrmann; in Oliver Böhm-Kasper, Berenike Herrmann & Silke Schwandt (eds.)
+        conference: Data Literacy in der Hochschule. Ein multidisziplinäres Studienbuch mit digitalen Selbstlerneinheiten, Bielefeld University Press, in preparation (Book Chapter)
+      
+      - title: "Doing Translation History with Catalogue Metadata: Insights into the Frankfurt Book Fair in the German National Library"
+        #link: 
+        authors: in Diana Roig-Sanz & Philipp Hofeneder (eds.)
+        conference: Digital Translation History, John Benjamins, in preparation (Book Chapter)
+    
+      - title: "Constructing A Multilingual Swiss National Literature: Jenny and Rossel’s Bilingual Literary History as a Challenge to the Monolingual Paradigm?"
+        link: "https://doi.org/10.1163/2667324x-20260102" 
+        authors: with Robin-M. Aust
+        conference: Journal of Literary Multilingualism, 2026 (Peer-Reviewed Article)
+        
       - title: "Übersetzte Welten. Kulturelle Übersetzungsprozesse in deutschsprachiger Gegenwartsliteratur"
         link: "https://doi.org/10.14361/9783839400791"
         # authors: 
         conference: transcript, 2025 (Monograph)
-    
-      - title: "Constructing A Multilingual Swiss National Literature: Jenny and Rossel’s Bilingual Literary History as a Challenge to the Monolingual Paradigm?"
-        authors: with Robin-M. Aust
-        link: "https://doi.org/10.1163/2667324x-20260102" 
-        conference: Journal of Literary Multilingualism, 2026 (Peer-Reviewed Article)
+        
+      - title: "Bildungsromankorpus"
+        link: "https://textgridrep.org/project/TGPR-fd67bf24-e3ea-bfe9-7336-691b13eca1dc"
+        authors: with Berenike Herrmann, Alexander Hummel & James Wiebe
+        conference: TextGrid Repository, 2025 (Dataset)
         
       - title: "Multilingual Lifeworlds and Textual Monolingualism: Pseudotranslation in Katerina Poladjan, Olga Grjasnowa, and Nino Haratischwili"
         link: "https://doi.org/10.14324/111.9781800083189"
@@ -247,12 +269,12 @@ publications:
       
       - title: "Cultural translation as a poetics of movement"
         link: "https://doi.org/10.14324/111.9781800083189"
-        authors: in Elizabeth Kovach & Jens Kugele (eds.) 
-        conference: Passages. Moving Beyond Liminality in the Study of Literature and Culture, 2022 (Peer-Reviewed Article)
+        authors: in Elizabeth Kovach & Jens Kugele (eds.)
+        conference: Passages. Moving Beyond Liminality in the Study of Literature and Culture, UCL Press, 2022 (Book Chapter)
         
 #     - title: "Migration, Contemporary Literature, Eastern Europe: In Search of a Term "
         # link: "https://doi.org/10.22029/ko.2022.1280"
-        # authors: Aumüller, Matthias, and Weertje Willms (eds.) 
+        # authors: Aumüller, Matthias, and Weertje Willms (eds.)
         # conference: KULT_online, 65/2022 (Book Review)
         
 #     - # title: "Quantifying Literature: It’s Not All About the Digital"
