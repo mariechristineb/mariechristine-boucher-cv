@@ -197,32 +197,41 @@ projects:
       #- title: "Forschungskolloquium LiLi revisited: Digitale Schnittstellenforschung zwischen Literaturwissenschaft und Linguistik (Sommersemester 2025), 1. Juli 2025"
        # tagline: "Universität Bielefeld, </br> Paper title: „Übersetzungsgeschichte mit Katalogsmetadaten“"
       - title: "DGAVL-Tagung 2025: Literatur und Life Writing – Literatur und Lebenserfahrung, 12–14 June 2025"
-        tagline: "Justus-Liebig-Universität Gießen, </br> Paper title: „Transkulturelles Life-Writing als Selbstübersetzung“
+        tagline: >-
+          Justus-Liebig-Universität Gießen, </br> Paper title: „Transkulturelles Life-Writing als Selbstübersetzung“
       - title: "DARIAH Annual Conference 2025 – The Past, 17–20 June 2025"
-        tagline: "Göttingen, </br> Paper title: „Teaching Literary History through Computational Analysis“, with Berenike Herrmann"
+        tagline: >-
+          Göttingen, </br> Paper title: „Teaching Literary History through Computational Analysis“, with Berenike Herrmann
       #- title: "DH-Workshop 2025 – Abschluss der DH-Stipendien und des HERMES-Forschungsstudienprogramms 2024, 20 March 2025"
        # tagline: "Deutsche Nationalbibliothek, </br> Paper title: „Literarische Übersetzungen in der DNB – Zielsprache Deutsch“"
       - title: "Digital Humanities im Deutschsprachigen Raum, 3–7 March 2025"
-        tagline: "Universität Bielefeld, </br> Discussant on the panel „Normdaten zu Texten und philologisches Wissen“, with Gerrit Brüning, Jochen Strobel, Susanne Al-Eryani & Barbara Fischer"
+        tagline: >-
+          Universität Bielefeld, </br> Discussant on the panel „Normdaten zu Texten und philologisches Wissen“, with Gerrit Brüning, Jochen Strobel, Susanne Al-Eryani & Barbara Fischer
       #- title: "Forschungskolloquium LiLi revisited: Digitale Schnittstellenforschung zwischen Literaturwissenschaft und Linguistik (Wintersemester 2024/2025), 21. Januar 2025"
        # tagline: "Universität Bielefeld, </br> Paper title: „Metadaten & Übersetzungen & Korpora & Data Literacy“"
       - title: "Impressed by Reading: Measuring the Impact, 24–27 February 2025"
-        tagline: "Lorentz Center Leiden, </br> Paper title: „Teaching (domain-specific) data literacy for literary studies“, with Berenike Herrmann"
+        tagline: >-
+          Lorentz Center Leiden, </br> Paper title: „Teaching (domain-specific) data literacy for literary studies“, with Berenike Herrmann
       - title: "SPP General Meeting, 6–7 October 2024"
-        tagline: "Humboldt-Universität zu Berlin, </br> Paper title: „Computational Literary Studies. Ein Mixed-Methods-Ansatz zur Erkennung und Analyse des Erhabenen in literarischen Texten“, with Berenike Herrmann, Daniel Kababgi, Robin-M. Aust & Emilie Sitter"
+        tagline: >-
+          Humboldt-Universität zu Berlin, </br> Paper title: „Computational Literary Studies. Ein Mixed-Methods-Ansatz zur Erkennung und Analyse des Erhabenen in literarischen Texten“, with Berenike Herrmann, Daniel Kababgi, Robin-M. Aust & Emilie Sitter
       #- title: "Digital Humanities Workshop, 29–30 August 2024"
        # tagline: "Deutsche Nationalbibliothek, </br> Paper title: „Literarische Übersetzungen in der DNB – Zielsprache Deutsch“"
       - title: "Workshop Literaturtheorie, 19 June 2024"
-        tagline: "Universität Bielefeld, </br> Paper title: „Der ‚Tod des Autors‘, seine Wiederbelebung – und sein neuerliches Sterben im Digitalen“, with Robin-M. Aust & Berenike Herrmann"
+        tagline: >-
+          Universität Bielefeld, </br> Paper title: „Der ‚Tod des Autors‘, seine Wiederbelebung – und sein neuerliches Sterben im Digitalen“, with Robin-M. Aust & Berenike Herrmann
       - title: "Poetiken der Vielheit,  10-12 October 2019"
         #link: "http://www.wbz.uni.wroc.pl/en/news/item/1370-miedzynarodowa-konferencja-pt-poetiken-der-vielheit-transnationale-literatur-in-den-deutschsprachigen-diskursraumen%E2%80%9D.html"
-        tagline: "Willy Brandt Center for German and European Studies, </br> Paper title: ''[Linguistische] Emanzipation in Das achte Leben (Für Brilka): Eine postmonolinguale Lektüre'"
+        tagline: >-
+          Willy Brandt Center for German and European Studies, </br> Paper title: „[Linguistische] Emanzipation in Das achte Leben (Für Brilka): Eine postmonolinguale Lektüre“
       - title: "Cultural Literacy & Cosmopolitan Conviviality, 9-11 May 2019"
-        link: "http://cleurope.eu/cultural-literacy-cosmopolitan-conviviality/"
-        tagline: "Universidade Católica Portuguesa (Lisbon), </br> Paper title: 'Translated culture(s) in Nellja Veremej’s Berlin liegt im Osten'"
+        #link: "http://cleurope.eu/cultural-literacy-cosmopolitan-conviviality/"
+        tagline: >-
+          Universidade Católica Portuguesa (Lisbon), </br> Paper title: "Translated culture(s) in Nellja Veremej’s <i>Berlin liegt im Osten</i>"
       - title: "Translating Thought/Translating Theory,  31 January & 1 February 2019"
-        link: "https://sites.google.com/sheffield.ac.uk/tttl/home"
-        tagline: "University of Sheffield, </br> Paper title: 'Cultural translation strategies in Olga Grjasnowa's Die juristische Unschärfe einer Ehe'"
+        #link: "https://sites.google.com/sheffield.ac.uk/tttl/home"
+        tagline: >-
+          University of Sheffield, </br> Paper title: "Cultural translation strategies in Olga Grjasnowa's <i>Die juristische Unschärfe einer Ehe</i>"
       #- title: "East Europe/The Black Sea as a Multicultural Space, 5-6 October 2018"
         #link: "#hook"
         #tagline: "Batumi Shota Rustaveli State University, </br> Paper title: 'Cultural Translation as Emancipation in Nino Haratischwili's Das achte Leben (Für Brilka)''"
@@ -230,10 +239,10 @@ projects:
       #  link: "http://bcmcr.org/culturaltranslation/2018/06/11/358/"
       #  tagline: "Birmingham City University, </br> Paper title: ''(Cultural) Translation in Transnational German Literature'"
       - title: "Europe from the Outside / Europe from the Inside, 7-9 June 2018"
-        link: "http://www.wbz.uni.wroc.pl/en/news/item/1316-miedzynarodowa-konferencja-europe-from-the-outside-europe-from-the-inside.html"
+        #link: "http://www.wbz.uni.wroc.pl/en/news/item/1316-miedzynarodowa-konferencja-europe-from-the-outside-europe-from-the-inside.html"
         tagline: "Willy Brandt Centre for German and European Studies of the University of Wrocław, </br> Paper title: '„Meine Gegenwart, überschrittene Zukunft“. Kulturelle Übersetzungsprozesse in der transnationalen deutschsprachigen Literatur'"
       - title: "VocUM 2017 – Langage et mondialisation, 23-24 November 2017"
-        link: "https://vocum.ca/vocum-2017/programme-2017/"
+        #link: "https://vocum.ca/vocum-2017/programme-2017/"
         tagline: "Université de Montréal, </br> Paper title: 'La littérature germanophone d’auteures d’origine (post-)soviétique: un exemple de traduction culturelle'</br>"
 
       #- title: "</br>[WORKSHOPS] </br></br>  Stylometry, 23 July – 2 August 2019"
