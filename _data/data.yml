@@ -272,25 +272,25 @@ publications:
     papers:
       - title: "War in the Socialist Block: Narrating the Shifting Sense of Place in Tijan Sila's <i>Radio Sarajevo</i>"
         authors: in Robin-M. Aust, Giulia Grisot & Berenike Herrmann (eds.)
-        conference: Comparing Landscapes. Approaches to Space and Affect in Literary Fiction, Bielefeld University Press, in preparation (Book Chapter)
+        conference: <i>Comparing Landscapes. Approaches to Space and Affect in Literary Fiction</i>, Bielefeld University Press, in preparation (Book Chapter)
 
       - title: "(Hochschul-)Lehre im Zeitalter der ‚Künstlichen Intelligenz‘"
         authors: with Berenike Herrmann & Benjamin Paaßen; in Birgit Lütje-Klose, Johanna Springhorn, Meike Vogel & Reinhold Decker (eds.)
-        conference: "Digitale Lehr-/Lernformate innovativ gestalten: Didaktische Zugänge für die Lehrpraxis, Bielefeld University Press, in preparation (Book Chapter)"
+        conference: "<i>Digitale Lehr-/Lernformate innovativ gestalten: Didaktische Zugänge für die Lehrpraxis</i>, Bielefeld University Press, in preparation (Book Chapter)"
 
       - title: "Computational Literacy und Forschungsdatenmanagement"
         authors: with Berenike Herrmann; in Oliver Böhm-Kasper, Berenike Herrmann & Silke Schwandt (eds.)
-        conference: "Data Literacy in der Hochschule. Ein multidisziplinäres Studienbuch mit digitalen Selbstlerneinheiten, Bielefeld University Press, in preparation (Book Chapter)"
+        conference: "<i>Data Literacy in der Hochschule. Ein multidisziplinäres Studienbuch mit digitalen Selbstlerneinheiten</i>, Bielefeld University Press, in preparation (Book Chapter)"
       
       - title: "Doing Translation History with Catalogue Metadata: Insights into the Frankfurt Book Fair in the German National Library"
         #link: 
         authors: in Diana Roig-Sanz & Philipp Hofeneder (eds.)
-        conference: "Digital Translation History: Processing historical data with digital humanities methods, John Benjamins, in preparation (Book Chapter)"
+        conference: "<i>Digital Translation History: Processing historical data with digital humanities methods</i>, John Benjamins, in preparation (Book Chapter)"
     
       - title: "Constructing A Multilingual Swiss National Literature: Jenny and Rossel’s Bilingual Literary History as a Challenge to the Monolingual Paradigm?"
         link: "https://doi.org/10.1163/2667324x-20260102" 
         authors: with Robin-M. Aust
-        conference: Journal of Literary Multilingualism, 2026 (Peer-Reviewed Article)
+        conference: <i>Journal of Literary Multilingualism</i>, 2026 (Peer-Reviewed Article)
         
       - title: "Übersetzte Welten. Kulturelle Übersetzungsprozesse in deutschsprachiger Gegenwartsliteratur"
         link: "https://doi.org/10.14361/9783839400791"
@@ -305,12 +305,12 @@ publications:
       - title: "Multilingual Lifeworlds and Textual Monolingualism: Pseudotranslation in Katerina Poladjan, Olga Grjasnowa, and Nino Haratischwili"
         link: "https://doi.org/10.14324/111.9781800083189"
         # authors: 
-        conference: Studies in 20th & 21st Century Literature, 2024 (Peer-Reviewed Article)
+        conference: <i>Studies in 20th & 21st Century Literature</i>, 2024 (Peer-Reviewed Article)
       
       - title: "Cultural translation as a poetics of movement"
         link: "https://doi.org/10.14324/111.9781800083189"
         authors: in Elizabeth Kovach & Jens Kugele (eds.)
-        conference: Passages. Moving Beyond Liminality in the Study of Literature and Culture, UCL Press, 2022 (Book Chapter)
+        conference: <i>Passages. Moving Beyond Liminality in the Study of Literature and Culture</i>, UCL Press, 2022 (Book Chapter)
         
 #     - title: "Migration, Contemporary Literature, Eastern Europe: In Search of a Term "
         # link: "https://doi.org/10.22029/ko.2022.1280"
@@ -340,12 +340,12 @@ publications:
       - title:  "Du tischört à la panosse: une 'marche en crabe' transatlantique, ou l’art impur de traduire"
         link: "https://llm.umontreal.ca/public/FAS/llm/Documents/2-Recherche/Panosse_pour_poutzer.pdf"
         authors: Marie-Christine Boucher & Manuel Meune (transl.)
-        conference: Revue transatlantique d’études suisses, 5.2/2015 (Translation)
+        conference: <i>Revue transatlantique d’études suisses</i>, 5.2/2015 (Translation)
 
       - title: "Une panosse pour poutser. Essai sur l’impureté linguistique: une perspective suisse (H. Loetscher, 2002)"
         link: "https://llm.umontreal.ca/public/FAS/llm/Documents/2-Recherche/RTE__S_5.pdf"
         authors: Marie-Christine Boucher & Manuel Meune
-        conference: Revue transatlantique d’études suisses, 5.2/2015 (Article)
+        conference: <i>Revue transatlantique d’études suisses</i>, 5.2/2015 (Article)
 
 #      - #title: "In between/Entre-deux (M. Morrison-Reed, 2008)"
         #link: "https://llm.umontreal.ca/fileadmin/Documents/FAS/litterature_langue_monde/Documents/2-Recherche/RTES_3_2013_v2.pdf"
