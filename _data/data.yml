@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Marie-Christine Boucher
-    tagline: Literature | OA | Web
+    tagline: German and comparative literary and cultural studies. Digital Humanities. Data Literacy.
     avatar: marie-christine-boucher.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -142,7 +142,7 @@ projects:
     intro: ""
 
     assignments:
-      - title: "[TEACHING] </br></br>Al for Research, 12 may 2025"
+      - title: "<b>[TEACHING]</b> </br></br>Al for Research, 12 may 2025"
         #link: "#hook"
         tagline: "Workshop, European Humanities University, Vilnius."
       - title: "Digital Tools for Research, 28 April 2025"
@@ -185,7 +185,7 @@ projects:
         #link: "#hook"
         tagline: "Workshop on the intersections of comparative literary analysis and translation theory. Justus-Liebig-Universität Gießen.</br>"
 
-      - title: "<br>[SELECTED PRESENTATIONS] <br><br>XXI. Tagung der Deutschen Gesellschaft für Allgemeine und Vergleichende Literaturwissenschaft - Weltliteratur im Medienwandel, 15-18 September 2026"
+      - title: "<br><b>[SELECTED PRESENTATIONS]</b> <br><br>XXI. Tagung der Deutschen Gesellschaft für Allgemeine und Vergleichende Literaturwissenschaft - Weltliteratur im Medienwandel, 15-18 September 2026"
         tagline: >-
           Johannes-Gutenberg-Universität Mainz, <br> Organisation and moderation of the panel "Digitale Horizonte von Weltliteratur", with Jana-Katharina Mende, Nils Kellner and Laura Untner
       - title: "Metadaten in den Humanities, 4–5 December 2025"
