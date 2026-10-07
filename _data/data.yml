@@ -264,10 +264,14 @@ projects:
       #- title: "Passages. Metaphors, Narratives, and Concepts, 19-24 May 2019"
         #link: "#hook"
       #  tagline: "Hermes Consortium for Literary & Cultural Studies Summer School, Justus-Liebig-Universität Gießen"
+projects:
+    title: Test
+    intro: ""
 
+    assignments:
 
 publications:
-    title: Publications (Selection)
+    title: Selected Publications
     intro: |
 
     papers:
@@ -340,7 +344,7 @@ publications:
 
       - title:  "Du tischört à la panosse: une 'marche en crabe' transatlantique, ou l’art impur de traduire"
         link: "https://llm.umontreal.ca/public/FAS/llm/Documents/2-Recherche/Panosse_pour_poutzer.pdf"
-        authors: Marie-Christine Boucher & Manuel Meune
+        authors: Marie-Christine Boucher & Manuel Meune (transl.)
         conference: Revue transatlantique d’études suisses, 5.2/2015 (Translation)
 
       - title: "Une panosse pour poutser. Essai sur l’impureté linguistique: une perspective suisse (H. Loetscher, 2002)"
@@ -348,15 +352,15 @@ publications:
         authors: Marie-Christine Boucher & Manuel Meune
         conference: Revue transatlantique d’études suisses, 5.2/2015 (Article)
 
-      - title: "In between/Entre-deux (M. Morrison-Reed, 2008)"
-        link: "https://llm.umontreal.ca/fileadmin/Documents/FAS/litterature_langue_monde/Documents/2-Recherche/RTES_3_2013_v2.pdf"
-        authors: Marie-Christine Boucher & Manuel Meune
-        conference: Revue transatlantique d'études suisses, 3/2013 (Translation)
+#      - #title: "In between/Entre-deux (M. Morrison-Reed, 2008)"
+        #link: "https://llm.umontreal.ca/fileadmin/Documents/FAS/litterature_langue_monde/Documents/2-Recherche/RTES_3_2013_v2.pdf"
+        #authors: Marie-Christine Boucher & Manuel Meune
+        #conference: Revue transatlantique d'études suisses, 3/2013 (Translation)
 
-      - title: "Der schweizerische Katalog / Le catalogue suisse (P.K. Wehrli, 1999)"
-        link: "https://llm.umontreal.ca/fileadmin/Documents/FAS/litterature_langue_monde/Documents/2-Recherche/La_Suisse_un_pays_carrefour.pdf"
-        authors: Manuel Meune, Marie-Christine Boucher & Christian Gravel
-        conference: Revue transatlantique d'études suisses, 1/2011 (Translation)
+#      - #title: "Der schweizerische Katalog / Le catalogue suisse (P.K. Wehrli, 1999)"
+        #link: "https://llm.umontreal.ca/fileadmin/Documents/FAS/litterature_langue_monde/Documents/2-Recherche/La_Suisse_un_pays_carrefour.pdf"
+        #authors: Manuel Meune, Marie-Christine Boucher & Christian Gravel
+        #conference: Revue transatlantique d'études suisses, 1/2011 (Translation)
 
 # skills:
   #  title: Skills &amp; Proficiency
