@@ -184,8 +184,11 @@ projects:
       - title: "Transcultural: On the Use of Translation in Comparative Literature, 16 January 2019"
         #link: "#hook"
         tagline: "Workshop on the intersections of comparative literary analysis and translation theory. Justus-Liebig-Universität Gießen.</br>"
-        
-      - title: "</br>[CONFERENCES] </br></br>Metadaten in den Humanities, 4–5 December 2025"
+
+      - title: "<br>[SELECTED PRESENTATIONS] <br><br>XXI. Tagung der Deutschen Gesellschaft für Allgemeine und Vergleichende Literaturwissenschaft - Weltliteratur im Medienwandel, 15-18 September 2026"
+        tagline: >-
+          Johannes-Gutenberg-Universität Mainz, <br> Organisation and moderation of the panel "Digitale Horizonte von Weltliteratur", with Jana-Katharina Mende, Nils Kellner and Laura Untner
+      - title: "Metadaten in den Humanities, 4–5 December 2025"
         tagline: "ZB Zürich, </br> Paper title: „Aus dem Forschungsort DNB: Geschichte der literarischen Übersetzung (Zielsprache Deutsch)“"
       - title: "SPP General Meeting, 6-9 October 2025"
         tagline: >-
