@@ -8,7 +8,7 @@ sidebar:
 
     # Profile information
     name: Marie-Christine Boucher
-    tagline: German and comparative literary and cultural studies. Digital Humanities. Data Literacy.
+    tagline: German and comparative literary and cultural studies<br>Digital Humanities<br>Data Literacy
     avatar: marie-christine-boucher.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
@@ -53,10 +53,10 @@ sidebar:
 #      - item: Knitting
 #        link:
 
-career-profile:
-    title: About me
-    summary: |
-      German and comparative literary and cultural studies. Digital Humanities. Data Literacy.
+#career-profile:
+ #   title: About me
+  #  summary: |
+   #   German and comparative literary and cultural studies. Digital Humanities. Data Literacy.
 
 
 education:
