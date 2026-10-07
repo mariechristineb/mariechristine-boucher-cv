@@ -264,12 +264,15 @@ projects:
       #- title: "Passages. Metaphors, Narratives, and Concepts, 19-24 May 2019"
         #link: "#hook"
       #  tagline: "Hermes Consortium for Literary & Cultural Studies Summer School, Justus-Liebig-Universität Gießen"
+#####test
 projects:
     title: Test
     intro: ""
 
     assignments:
-
+      - title: "[TEACHING] </br></br>Al for Research, 12 may 2025"
+        #link: "#hook"
+#####test
 publications:
     title: Selected Publications
     intro: |
